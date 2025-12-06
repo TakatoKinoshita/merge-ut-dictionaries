@@ -12,7 +12,7 @@ place_names="true"
 skk_jisyo="true"
 sudachidict="true"
 
-generate_latest="true"
+#generate_latest="true"
 
 rm -rf mozcdic-ut*
 
